@@ -5,4 +5,4 @@
  * Run this file with: `kotlin 0_hello.main.kts`
  */
 
-"Hello Kotlin scripting"
+println("Hello Kotlin scripting")

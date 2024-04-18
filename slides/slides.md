@@ -34,7 +34,7 @@
   <!-- .element: class="fragment" data-fragment-index="1" -->
 * Revisaremos código de ejemplo
   <!-- .element: class="fragment" data-fragment-index="2" -->
-* Podéis interrumpir para preguntar (TBC)
+* Ronda de preguntas al final
   <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
