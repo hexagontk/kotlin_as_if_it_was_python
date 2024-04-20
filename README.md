@@ -26,10 +26,3 @@ ocasión.
 Me podéis encontrar en:
 * https://github.com/jaguililla
 * https://twitter.com/jaguililla
-
-## TODO
-* Preguntar audiencia experiencia con Kotlin y Python
-* Pausas
-* Priorizar ejemplos, simplificar
-* Code Time
-* Twitter
