@@ -9,7 +9,7 @@
  *
  * You can add extra repositories with the '@file:Repository' annotation
  */
-@file:DependsOn("com.h2database:h2:2.2.224")
+@file:DependsOn("com.h2database:h2:2.3.230")
 
 import java.nio.file.Path
 import java.nio.file.Paths

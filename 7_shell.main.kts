@@ -3,7 +3,7 @@
 /*
  * 7. SHELL SCRIPTING - Use other shell programs and utilities
  */
-@file:DependsOn("com.hexagonkt:core:3.5.3")
+@file:DependsOn("com.hexagonkt:core:3.6.1")
 
 import com.hexagonkt.core.logging.*
 import com.hexagonkt.core.exec

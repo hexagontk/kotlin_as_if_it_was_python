@@ -3,7 +3,7 @@
 /*
  * 4. SWING INTERFACES
  */
-@file:DependsOn("com.formdev:flatlaf:3.4.1")
+@file:DependsOn("com.formdev:flatlaf:3.5.1")
 
 import com.formdev.flatlaf.FlatDarculaLaf
 

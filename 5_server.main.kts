@@ -3,8 +3,8 @@
 /*
  * 5. ARGUMENT PASSING - Start a server (useful for mocking dependencies)
  */
-@file:DependsOn("com.hexagonkt:http_server_netty:3.5.3")
-@file:DependsOn("com.hexagonkt:serialization_jackson_json:3.5.3")
+@file:DependsOn("com.hexagonkt:http_server_netty:3.6.1")
+@file:DependsOn("com.hexagonkt:serialization_jackson_json:3.6.1")
 
 import com.hexagonkt.http.server.netty.serve
 import com.hexagonkt.core.logging.logger

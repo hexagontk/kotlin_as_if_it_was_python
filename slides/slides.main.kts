@@ -1,6 +1,6 @@
 #!/usr/bin/env kotlin
 
-@file:DependsOn("com.hexagonkt:http_server_netty:3.5.3")
+@file:DependsOn("com.hexagonkt:http_server_netty:3.6.1")
 @file:DependsOn("com.github.mouse0w0:darculafx:9.0.0")
 @file:DependsOn("org.openjfx:javafx-controls:21")
 @file:DependsOn("org.openjfx:javafx-web:21")

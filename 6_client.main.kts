@@ -8,8 +8,8 @@
  * They could improve start time by compiling without optimizations, etc.
  */
 @file:CompilerOptions("-jvm-target", "17")
-@file:DependsOn("com.hexagonkt:http_client_jetty:3.5.3")
-@file:DependsOn("com.hexagonkt:serialization_jackson_json:3.5.3")
+@file:DependsOn("com.hexagonkt:http_client_jetty:3.6.1")
+@file:DependsOn("com.hexagonkt:serialization_jackson_json:3.6.1")
 
 import com.hexagonkt.http.client.jetty.JettyClientAdapter
 import com.hexagonkt.http.client.*
